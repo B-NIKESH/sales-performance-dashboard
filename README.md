@@ -10,15 +10,17 @@ DAX
 Power Query
 Dashboard Screenshots
 
-Executive Dashboard
-![Executive Dashboard](Dashboard_Page1.png)
+### Executive Dashboard
 
-City Analysis
-![City Analysis](Dashboard_Page2.png)
+![Executive Dashboard](Screenshot%202026-06-06%20160036.png)
 
-Product Analysis
-![Product Analysis](Dashboard_Page3.png)
+### City Analysis
 
+![City Analysis](Screenshot%202026-06-06%20160055.png)
+
+### Product Analysis
+
+![Product Analysis](Screenshot%202026-06-06%20160111.png)
 Files
 Sales Dashboard (.pbix)
 Dataset (.xlsx)
